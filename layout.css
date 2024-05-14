@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.container {
+  background-color: rgb(206, 233, 241);
+  width: 98%;
+  margin: 1em auto;
+}
+p {
+  padding: 0.5em 1em;
+}
+
+#punch {
+  float: left;
+  font-size: 500%;
+  width: 1.2em;
+  text-align: center;
+  padding: 0.1em 0.1em 0;
+  background: #568;
+  color: white;
+  border: solid white 1px;
+  border-width: 0 0.2em 0.2em 0;
+  margin: 0 0.5em 0.2em 0;
+}
+#punch2 {
+  float: left;
+  width: 100px;
+  height: 70px;
+  text-align: center;
+  background: white;
+  color: black;
+  border: solid black 1px;
+  border-width: 0 1px 1px 0;
+  padding: 0 10px 5px 0;
+  margin: -1px 25px 10px -1px;
+}
+
+#punch3 {
+  float: left;
+  text-align: left;
+  background: white;
+  color: black;
+  border: solid black 1px;
+  border-width: 0 1px 1px 0;
+  padding: 10px;
+  margin: -1px 25px 10px -1px;
+  width: 25%;
+}
+
+#punch3b {
+  float: right;
+  width: 25%;
+  text-align: left;
+  font-size: 140%;
+  font-weight: bold;
+  font-style: italic;
+  padding: 1em;
+  text-indent: -0.5em;
+  background: white;
+  color: black;
+  border: solid black 1px;
+  border-width: 1px 0 1px 1px;
+  margin: 0.2em -1px 0.2em 0.5em;
+}
+
+#container2 {
+  border: 1px solid black;
+}
+
+.box-header {
+  background: rgb(152, 175, 210);
+  margin: 0;
+  padding: 0.4em;
+  text-align: right;
+}
+
+#jump-to {
+  padding: 0.5em 1em;
+}
+
+ul {
+  padding-bottom: 1em;
+}
